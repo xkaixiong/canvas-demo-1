@@ -38,6 +38,14 @@
       let painting = false;
 
       ctx.fillStyle = "black";
+      ctx.strokeStyle =
+        "none";
+      var isTouchDevice =
+        "ontouchstart" in
+        document.documentElement;
+      console.log(
+        isTouchDevice
+      );
 
       canvas.onmousedown = () => {
         painting = true;
