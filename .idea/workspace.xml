@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9dc28df-a412-43be-bf3f-399ac963b2db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/60/fc95002330f8df64a9f6c40714d97a.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/60/fc95002330f8df64a9f6c40714d97a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.4e069977.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.4e069977.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +43,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602118874197</updated>
-      <workItem from="1602118875428" duration="2039000" />
+      <workItem from="1602118875428" duration="3044000" />
+      <workItem from="1602207678318" duration="13171000" />
+      <workItem from="1602232395862" duration="9000" />
+      <workItem from="1602232433503" duration="37000" />
     </task>
     <servers />
   </component>
